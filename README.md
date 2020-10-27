@@ -11,6 +11,7 @@ Para o desenvolvimento da API, usei:
 
 Para o desenvolvimento do frontend da aplicação web, usei:
 - React
+- Axios
 
 Para o desenvolvimento do app, usei:
 - React Native
